@@ -12,4 +12,8 @@ class Dog
     @@all
   end
   
+  def self.age
+    @age
+  end
+  
 end
